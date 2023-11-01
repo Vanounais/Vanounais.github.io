@@ -17,7 +17,12 @@
             </div>
           </div>
           <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-          <p>{{ post.project-date }}</p>
+          <ul class="list-inline item-details">
+            {% if post.project-date %}
+            <li>Date:
+              <strong>{{ post.project-date }}</strong>
+            </li>
+          </ul>
         </a>
       </div>
       {% endfor %}
