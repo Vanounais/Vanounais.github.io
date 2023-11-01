@@ -69,3 +69,16 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+---
+layout: default
+modal-id: 1
+date: 2020-01-18
+img: cabin.png
+alt: image-alt
+project-date: January 2020
+client: MAMOUTH
+category: Web Development BRUH
+description: The description of the project is trash
+
+---
