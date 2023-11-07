@@ -2,9 +2,9 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-imgPrimary: cake.png
+imgCard: 2021-11-01-chasseur_de_legende.gif
 videoYtb: https://www.youtube.com/embed/aee57hTYQ-M?si=3cvGnF7Ajm__5c2F
-alt: image-alt
+alt: projet chasseur de lengende
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

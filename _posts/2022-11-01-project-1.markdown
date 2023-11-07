@@ -3,7 +3,8 @@ title: Laboratoire
 layout: default
 modal-id: 1
 date: 2022-11-15
-imgPrimary: 2022_11_15_laboratoire.PNG
+imgCard: 2022-11-15-laboratoire.PNG
+imgPrimary: 2022-11-15-laboratoire.PNG
 alt: projet laboratoire
 project-date: Novembre 2022
 category: 3D
