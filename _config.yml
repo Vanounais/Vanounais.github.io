@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 465 Pl. de la Frégate
-  - line: Sainte-Catherine, QC J5C 1Y5
+  - line: Sainte-Catherine
+  - line: Québec
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
