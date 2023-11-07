@@ -2,10 +2,11 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-imgPrimary: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Krystal
+imgCard: 2023-05-01-krystal.jpg
+videoYtb: https://www.youtube.com/embed/8Lfl74hOEN0?si=6ai7IL2Ge4E8GHcq
+alt: projet Krystal
+project-date: Mai 2023
+category: 3D Animation, Montage Video
+description: BLA BLA BLA
 ---
