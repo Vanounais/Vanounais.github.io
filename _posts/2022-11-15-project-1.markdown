@@ -1,0 +1,13 @@
+---
+title: Laboratoire
+layout: default
+modal-id: 1
+date: 2022-11-15
+imgPrimary: 2022_11_15_laboratoire.PNG
+imgSecond1: 2022_11_15_laboratoire.PNG
+imgSecond3: 2022_11_15_laboratoire.PNG
+alt: projet laboratoire
+project-date: Novembre 2022
+category: 3D
+description: En équipe de 3 nous avions comme travail la modélisation d'une scène de notre choix. Nous avons eu l'idée d'un laboratoire moderne et futuriste comme nous étions tous les 3 fans de science-fiction. Dans mon cas je me suis chargé de la modélisation du bâtiment, de la cuve de cryogénisation et de l'armoire. Je me suis également occuper des objets à l'intérieur de l'armoire a l'exception du microscope qui a été faits par un de mes collègues.
+---
