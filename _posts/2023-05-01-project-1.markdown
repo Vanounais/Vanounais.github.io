@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 4
-date: 2014-07-15
+modal-id: 1
+date: 2023-05-01
 title: Krystal
 imgCard: 2023-05-01-krystal.jpg
 videoYtb: https://www.youtube.com/embed/8Lfl74hOEN0?si=6ai7IL2Ge4E8GHcq
