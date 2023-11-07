@@ -1,7 +1,7 @@
 ---
 title: Laboratoire
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2022-11-15
 img: 2022_11_15_laboratoire.PNG
 alt: projet laboratoire
