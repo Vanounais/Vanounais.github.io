@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 6
+date: 2021-9-01
+title: Moi, juste moi
+imgCard: portrait_1.png
+imgPrimary: portrait_1.png
+imgSecond1: portrait_2.png
+imgSecond3: portrait_3.png
+imgSecond4: portrait_4.png
+imgSecond5: portrait_5.png
+alt: projet autoportait
+project-date: Septembre 2021
+category: Illustration, Photoshop
+description: bla bla bla
+---
