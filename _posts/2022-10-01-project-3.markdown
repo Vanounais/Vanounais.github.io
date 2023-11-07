@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2022-10-01
+title: Le petit Bruno
+imgCard: 2022-10-01-bruno.PNG
+imgPrimary: 2022-10-01-bruno.PNG
+imgSecond1: 2022-10-01-bruno-white.PNG
+alt: Projet Bruno
+project-date: Octobre 2022
+category: 3D
+description: Bla bla bla
+---

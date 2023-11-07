@@ -1,12 +1,12 @@
 ---
-title: Chasseur de Légende
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2021-11-01
+title: Chasseur de Légende
 imgCard: 2021-11-01-chasseur_de_legende.gif
 videoYtb: https://www.youtube.com/embed/aee57hTYQ-M?si=3cvGnF7Ajm__5c2F
 alt: projet chasseur de lengende
 project-date: Novembre 2021
-category: Illustration, PhotoShop
+category: Illustration, Photoshop, Montage video
 description: bla bla bla
 ---
