@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 imgPrimary: cake.png
-videoYtb: <iframe width="560" height="315" src="https://www.youtube.com/embed/aee57hTYQ-M?si=3cvGnF7Ajm__5c2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+videoYtb: https://www.youtube.com/embed/aee57hTYQ-M?si=3cvGnF7Ajm__5c2F
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
