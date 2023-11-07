@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2022-05-01
+imgCard: 2022-05-01-monati.jpg
+videoYtb: https://www.youtube.com/embed/1IlQ1V5E3Xo?si=AoMP2MjibiTFltqW
+alt: projet Monati
+project-date: Mai 2022
+category: Montage Video, Animation 2D
+description: OLAHG VDHVWGJH QYJH GE CFGV
+---
