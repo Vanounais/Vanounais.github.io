@@ -3,7 +3,7 @@ layout: default
 modal-id: 5
 date: 2021-11-01
 title: Chasseur de Légende
-imgCard: 2021-11-01-chasseur_de_legende.gif
+imgCard: 2021-11-01-chasseur_de_legende.jpg
 videoYtb: https://www.youtube.com/embed/aee57hTYQ-M?si=3cvGnF7Ajm__5c2F
 alt: projet chasseur de lengende
 project-date: Novembre 2021
