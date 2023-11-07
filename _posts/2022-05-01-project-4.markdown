@@ -8,5 +8,6 @@ videoYtb: https://www.youtube.com/embed/1IlQ1V5E3Xo?si=AoMP2MjibiTFltqW
 alt: projet Monati
 project-date: Mai 2022
 category: Montage Video, Animation 2D
+logiciel: Davinci Resolve, Illustrator, After Effects
 description: OLAHG VDHVWGJH QYJH GE CFGV
 ---

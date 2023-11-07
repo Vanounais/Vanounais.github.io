@@ -8,5 +8,6 @@ videoYtb: https://www.youtube.com/embed/aee57hTYQ-M?si=3cvGnF7Ajm__5c2F
 alt: projet chasseur de lengende
 project-date: Novembre 2021
 category: Illustration, Photoshop, Montage video
+logiciel: Photoshop
 description: bla bla bla
 ---

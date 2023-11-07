@@ -12,5 +12,6 @@ imgSecond5: portrait_5.png
 alt: projet autoportait
 project-date: Septembre 2021
 category: Illustration, Photoshop
+logiciel: Photoshop
 description: bla bla bla
 ---

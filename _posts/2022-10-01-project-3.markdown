@@ -9,5 +9,6 @@ imgSecond1: 2022-10-01-bruno-white.PNG
 alt: Projet Bruno
 project-date: Octobre 2022
 category: 3D
+logiciel: Maya
 description: Bla bla bla
 ---
