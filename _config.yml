@@ -36,6 +36,7 @@ footer:
   location: Location
   social: Médias
   credits: Mon CV
+  contact: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,6 +52,9 @@ address:
 
 # Credits content
 credits: '<a href="https://www.canva.com/design/DAFtrdmIMMA/AIPcQvfaOse7xccqa0FVjg/view?utm_content=DAFtrdmIMMA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">CV - Nicolas St-martin</a>'
+
+# Contact content
+gmail: Vanounais@gmail.com
 
 # Build settings
 markdown: kramdown
