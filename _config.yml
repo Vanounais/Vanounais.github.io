@@ -58,7 +58,7 @@ address:
   - line: Québec
 
 # Credits content
-credits: 'N'hésitez pas à consulter mon CV <a href="https://www.canva.com/design/DAFtrdmIMMA/AIPcQvfaOse7xccqa0FVjg/view?utm_content=DAFtrdmIMMA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">CV - Nicolas St-martin</a>.'
+credits: 'hésitez pas à consulter mon CV <a href="https://www.canva.com/design/DAFtrdmIMMA/AIPcQvfaOse7xccqa0FVjg/view?utm_content=DAFtrdmIMMA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">CV - Nicolas St-martin</a>.'
 
 # Build settings
 markdown: kramdown
