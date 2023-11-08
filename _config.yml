@@ -34,8 +34,8 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Médias
+  credits: Mon CV
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +50,7 @@ address:
   - line: Québec
 
 # Credits content
-credits: 'Hésitez pas à consulter mon CV. <br><a href="https://www.canva.com/design/DAFtrdmIMMA/AIPcQvfaOse7xccqa0FVjg/view?utm_content=DAFtrdmIMMA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">CV - Nicolas St-martin</a>'
+credits: <a href="https://www.canva.com/design/DAFtrdmIMMA/AIPcQvfaOse7xccqa0FVjg/view?utm_content=DAFtrdmIMMA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">CV - Nicolas St-martin</a>'
 
 # Build settings
 markdown: kramdown
