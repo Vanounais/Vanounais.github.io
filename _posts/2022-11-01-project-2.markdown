@@ -6,9 +6,10 @@ title: Laboratoire
 imgCard: 2022-11-15-laboratoire.PNG
 imgPrimary: 2022-11-15-laboratoire.PNG
 imgSecond1: lab-mb-cuve.png
-imgSecond2: lab_cuve.png
-imgSecond3: lab-mb-armoire.png
-imgSecond4: lab_armoire.png
+imgSecond2: cuve_mesh.PNG
+imgSecond3: lab_cuve.png
+imgSecond4: lab-mb-armoire.png
+imgSecond5: lab_armoire.png
 alt: projet laboratoire
 project-date: Novembre 2022
 category: 3D
