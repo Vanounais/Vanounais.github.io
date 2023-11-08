@@ -9,5 +9,5 @@ alt: projet Krystal
 project-date: Mai 2023
 category: 3D Animation, Montage Video, Composition Sonore
 logiciel: Maya, DaVinci Resolve, VCV Rack, Reaper
-description: BLA BLA BLA
+description: Dans ce projet j'ai réalisé seul une courte animation sur Maya de 2 petites boules de cristal lumineuses qui se promène au-dessus d'un large écran de fumée duquel plusieurs tours de cristal émergent l'une après l'autre. La bande sonore est entièrement faites par moi également à l'aide de VCV rack.
 ---

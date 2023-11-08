@@ -9,5 +9,5 @@ alt: projet Monati
 project-date: Mai 2022
 category: Montage Video, Animation 2D
 logiciel: Davinci Resolve, Illustrator, After Effects
-description: OLAHG VDHVWGJH QYJH GE CFGV
+description: Monati est un projet en équipe qui nous a valu la victoire du concours d'essais audio-visuel. Dans ce projet j'ai surtout joué un rôle derrière la caméra et dans la réalisation de certaines animations présente dans le projet.
 ---

@@ -9,5 +9,5 @@ alt: projet chasseur de lengende
 project-date: Novembre 2021
 category: Illustration, Photoshop, Montage video
 logiciel: Photoshop
-description: bla bla bla
+description: Dans ce projet le but était de réaliser un générique inspiré d'une série un d'un film fictif que nous avions imaginé. Les illustrations ont été réalisées dans Photoshop et j'ai pris la liberté d'en animer quelques-unes pour un meilleur résultat.
 ---

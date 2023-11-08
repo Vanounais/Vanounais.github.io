@@ -13,5 +13,5 @@ alt: projet laboratoire
 project-date: Novembre 2022
 category: 3D
 logiciel: Maya, Unity
-description: En équipe de 3 nous avions comme travail la modélisation d'une scène de notre choix. Nous avons eu l'idée d'un laboratoire moderne et futuriste comme nous étions tous les 3 fans de science-fiction. Dans mon cas je me suis chargé de la modélisation du bâtiment, de la cuve de cryogénisation et de l'armoire. Je me suis également occuper des objets à l'intérieur de l'armoire a l'exception du microscope qui a été faits par un de mes collègues.
+description: En équipe de 3 nous avions comme travail la modélisation d'une scène de notre choix. Nous avons eu l'idée d'un laboratoire moderne et futuriste comme nous étions tous les 3 fans de science-fiction. Dans mon cas je me suis chargé de la modélisation du bâtiment, de la cuve de cryogénisation et de l'armoire. Je me suis également occuper des objets à l'intérieur de l'armoire a l'exception du microscope qui a été faits par l'un de mes collègues. Tous les modèles ont été créé dans Maya et la scène à être assemblé dans Unity.
 ---

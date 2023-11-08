@@ -10,5 +10,5 @@ alt: Projet Bruno
 project-date: Octobre 2022
 category: 3D
 logiciel: Maya
-description: Bla bla bla
+description: Dans ce projet j'ai modélisé et animé sur Maya un personnage pour lui donner une pose dynamique qui correspondait au style de décor que j'avais choisi. Pour rester dans le style de décor que j'avais choisi je n'ai mis qu'une texture noire pour ne rendre visible que la silhouette de mon personnage et ses yeux.
 ---
