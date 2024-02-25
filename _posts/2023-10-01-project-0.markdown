@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2023-10-01
+title: Fleuriste
+imgCard: 2023-05-01-krystal.jpg
+imgSecond1: krystal_back.gif
+imgSecond2: Kristal_fumee.PNG
+alt: projet Fleuriste
+project-date: Octobre 2023
+category: Jeux VR, 3D, programmation
+logiciel: Maya, Unity
+description: Dans ce projet j'ai réalisé un Jeu
+---
