@@ -7,9 +7,11 @@ imgCard: 2023-10-01-fleuriste.PNG
 imgSecond1: fleuriste-2.PNG
 imgSecond2: fleuriste-3.PNG
 imgSecond3: fleuriste-4.PNG
+imgSecond4: fleuriste-5.PNG
+imgSecond5: fleuriste-6.PNG
 alt: projet Fleuriste
 project-date: Octobre 2023
 category: Jeux VR, 3D, programmation
 logiciel: Maya, Unity
-description: Dans ce projet j'ai réalisé un Jeu Unity avec on collègue dans le quel un série de client rentre dans le magasin pour commander un bouquet de fleur. la commande etait un bouquet composer de 5 fleurs aléatoire à chaque fois que le joueaur devait récupérer dans le magasin et ajouter à son bouquet.
+description: Dans ce projet j'ai réalisé un jeu Unity avec on collègue dans lequel une série de clients rentre dans le magasin pour passer une commande. la commande était un bouquet composer de 5 fleurs aléatoire, le joueur devait ensuite récupérer les bonnes fleurs dans le magasin pour les ajouter à son bouquet et le donner au client. Dans ce projet j'ai réalisé tout le décor extérieur, ainsi que certains objets a l'intérieur comme le comptoir, les étagères, les pots de fleurs et la caisse enregistreuse.
 ---
