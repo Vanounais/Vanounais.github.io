@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 9
+date: 2020-01-01
+title: Projets
+imgCard: semaine3_substance2.PNG
+imgPrimary: semaine3_substance1.PNG
+imgSecond1: semaine3_substance2.PNG
+imgSecond2: semaine5_archeo.PNG
+imgSecond3: semaine6_unity.PNG
+alt: Projets
+project-date: 2024
+category: 3D
+logiciel: Unity
+description:
+---
