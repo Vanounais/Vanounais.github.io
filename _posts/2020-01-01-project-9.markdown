@@ -8,6 +8,7 @@ imgPrimary: semaine3_substance1.PNG
 imgSecond1: semaine3_substance2.PNG
 imgSecond2: semaine5_archeo.PNG
 imgSecond3: semaine6_unity.PNG
+imgSecond4: semaine6_unity.gif
 alt: Projets
 project-date: 2024
 category: 3D
