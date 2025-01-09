@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2024-02-01
 title: Kigo
-imgCard: logo-kigo.png
+imgCard: 2024-logo-kigo.png
 videoYtb: https://www.youtube.com/embed/9KOZzKAHbGE
 alt: Projet Kigo
 project-date: 2024
