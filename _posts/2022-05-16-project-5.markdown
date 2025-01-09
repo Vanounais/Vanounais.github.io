@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 5
+date: 2022-05-01
+title: Krystal
+imgCard: 2022-05-01-monati.jpg
+videoYtb: https://youtu.be/1IlQ1V5E3Xo
+imgSecond1: monati_tournage_1.jpg
+imgSecond2: monati_tournage_2.png
+alt: Projet Monati
+project-date: Mai 2022
+category: 2D Animation, Montage Video, Composition Sonore
+logiciel: Illustrator, After Effect, DaVinci Resolve, VCV Rack, Reaper
+description: Error
+---
