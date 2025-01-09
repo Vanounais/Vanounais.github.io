@@ -7,7 +7,7 @@ imgCard: 2023-05-01-krystal.jpg
 videoYtb: https://www.youtube.com/embed/8Lfl74hOEN0?si=6ai7IL2Ge4E8GHcq
 imgSecond1: krystal_back.gif
 imgSecond2: Kristal_fumee.PNG
-alt: projet Krystal
+alt: Projet Krystal
 project-date: Mai 2023
 category: 3D Animation, Montage Video, Composition Sonore
 logiciel: Maya, DaVinci Resolve, VCV Rack, Reaper

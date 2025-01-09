@@ -10,7 +10,7 @@ imgSecond2: cuve_mesh.PNG
 imgSecond3: lab_cuve.png
 imgSecond4: lab-mb-armoire.png
 imgSecond5: lab_armoire.png
-alt: projet laboratoire
+alt: Projet Laboratoire
 project-date: Novembre 2022
 category: 3D
 logiciel: Maya, Unity

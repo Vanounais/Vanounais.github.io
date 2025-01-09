@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2021-01-01
+title: Chasseur de Legende
+imgCard: 2021-11-01-chasseur_de_legende.jpg
+videoYtb: https://youtu.be/aee57hTYQ-M
+alt: Projet Générique
+project-date: 2021
+category: 2D
+logiciel: PhotoShop
+description: Error
+---

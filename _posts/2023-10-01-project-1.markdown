@@ -7,7 +7,7 @@ imgCard: 2023-10-01-fleuriste.PNG
 imgSecond1: fleuriste-2.PNG
 imgSecond2: fleuriste-3.PNG
 imgSecond3: fleuriste-4.PNG
-alt: projet Fleuriste
+alt: Projet Fleuriste
 project-date: Octobre 2023
 category: Jeux VR, 3D, programmation
 logiciel: Maya, Unity
