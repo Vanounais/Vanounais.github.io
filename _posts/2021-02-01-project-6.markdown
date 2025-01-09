@@ -9,5 +9,5 @@ alt: Projet Générique
 project-date: 2021
 category: 2D
 logiciel: PhotoShop
-description: Error
+description:
 ---

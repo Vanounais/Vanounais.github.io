@@ -11,5 +11,5 @@ alt: Projet Monati
 project-date: Mai 2022
 category: 2D Animation, Montage Video, Composition Sonore
 logiciel: Illustrator, After Effect, DaVinci Resolve, VCV Rack, Reaper
-description: Error
+description:
 ---
