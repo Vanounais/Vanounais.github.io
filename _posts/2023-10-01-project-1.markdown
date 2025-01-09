@@ -7,8 +7,6 @@ imgCard: 2023-10-01-fleuriste.PNG
 imgSecond1: fleuriste-2.PNG
 imgSecond2: fleuriste-3.PNG
 imgSecond3: fleuriste-4.PNG
-imgSecond4: fleuriste-5.PNG
-imgSecond5: fleuriste-6.PNG
 alt: projet Fleuriste
 project-date: Octobre 2023
 category: Jeux VR, 3D, programmation

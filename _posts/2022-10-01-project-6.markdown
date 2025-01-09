@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+date: 2022-10-01
+title: Le petit Bruno
+imgCard: 2022-10-01-bruno.PNG
+imgPrimary: 2022-10-01-bruno.PNG
+imgSecond1: 2022-10-01-bruno-white.PNG
+alt: Projet Bruno
+project-date: Octobre 2022
+category: 3D
+logiciel: Maya
+description: Dans ce projet j'ai modélisé et animé sur Maya un personnage pour lui donner une pose dynamique qui correspondait au style de décor que j'avais choisi. Pour rester dans le style de décor que j'avais choisi je n'ai mis qu'une texture noire pour ne rendre visible que la silhouette de mon personnage et ses yeux.
+---
